@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "e1024e43d554cde9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5e929e59bdd0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c1dbcb52975ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. 지식 창고/10.4 사회·문화/2026년8월/2026-08-16 사회 문화 성수동 크래프트맥주 서울브루어리 이수용대표 로컬브루어리 K맥주 F&B트렌드 분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-16 사회 문화 성수동 크래프트맥주 서울브루어리 이수용대표 로컬브루어리 K맥주 F&B트렌드 분석"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76215b7ca0f78adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab2c8411e5797cd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad06cca4e2588503",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a35025b79cba0dab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "76b4df3fb3015896",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "330038f86e72a10a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e3e69f688adff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a166e3ac01546e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "bd030239b7f8fb4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "a59ea419e187ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "b8d5aeb4b4a21cb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "f274f3b9f31984b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "5c1dbcb52975ffd3",
+  "lastOpenFiles": [
+    "_company/00_Raw/conversations/2026-08-23.md",
+    "_company/sessions/2026-08-23T06-03",
+    "10. 지식 창고/10.2 국제·지정학/2026년8월/2026-08-20 국제지정학 북한정보기관개편 국가정보국 정찰정보총국 김정은 정보과신 오판 최성규칼럼 분석.md",
+    "10. 지식 창고/10.4 사회·문화/2026년8월/2026-08-20 사회 문화 클래식버스킹 보스턴체임버 살롱문화 입시음악해방 김민지대표 유주현 칼럼 분석.md",
+    "10. 지식 창고/10.2 국제·지정학/2026년8월/2026-08-20 국제지정학 자유민주주의내적딜레마 대런아세모글루 오르반 노동계급자유주의 이훈범칼럼 분석.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/2월 일일점검/2026-02-10_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/1월 일일점검/2026-01-11_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/신고접수/4월 신고접수/2026-04_신고접수_통합보고서.md",
+    "20. 인사이트 융합/야통대 자료/2024년도 야통대/조류충돌/2024-10_조류충돌보고서_통합.md",
+    "20. 인사이트 융합/야통대 자료/2025년도 야통대/조류충돌/2025-10_조류충돌보고서_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/신고접수/5월 신고접수/2026-05_신고접수_통합보고서.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-05_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-20_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2024년도 야통대/조류충돌/2024-09_조류충돌보고서_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-14_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-01_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-04_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2025년도 야통대/조류충돌/2025-09_조류충돌보고서_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/6월 일일점검/2026-06-07_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-11_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2024년도 야통대/조류충돌/연간 조류충돌 추이 분석/2001-2026_연간_조류충돌_추이_분석.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-03_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-19_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/3월 일일점검/2026-03-13_야통대_주간_점검일지_통합.md",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/일일점검/6월 일일점검/2026-06-06_야통대_주간_점검일지_통합.md",
+    "10. 지식 창고/10.1 경제/2026년8월/2026-08-14 경제 금융 펜타곤피자지수 와플하우스지수 빅맥지수 돈가스카레지수 장혜수 뉴스터치 분석.md",
+    "10. 지식 창고/10.1 경제/2026년8월/2026-08-14 경제 금융 시추에이셔널어웨어니스 마진콜 시타델 케네스그리핀 레버리지 리스크관리 최정혁 마켓나우 분석.md",
+    "20. 인사이트 융합/야통대 자료/2024년도 야통대/조류충돌/연간 조류충돌 추이 분석",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/조류충돌보고/1월 조류충돌 보고",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/조류충돌보고/2월 조류충돌 보고",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/조류충돌보고/3월 조류충돌 보고",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/조류충돌보고/4월 조류충돌 보고",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/조류충돌보고/5월 조류충돌 보고",
+    "20. 인사이트 융합/야통대 자료/2026년도 야통대/조류충돌보고/6월 조류충돌 보고",
+    "20. 인사이트 융합/야통대 자료/2024년도 야통대/사체수거/10월 사체수거",
+    "20. 인사이트 융합/야통대 자료/2024년도 야통대/사체수거/12월 사체수거",
+    "무제.canvas",
+    "temp_photo.jpg",
+    "10. 지식 창고/10.1 경제/attachments/resilience_3go.png",
+    "10. 지식 창고/10.2 국제·지정학/attachments/petroyuan_strategy.png",
+    "10. 지식 창고/10.2 국제·지정학/attachments/alaska_purchase_negotiation.png"
+  ]
+}

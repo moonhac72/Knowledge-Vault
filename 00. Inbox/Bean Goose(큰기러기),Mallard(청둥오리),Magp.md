@@ -1,0 +1,1 @@
+Bean Goose(큰기러기),Mallard(청둥오리),Magpie(까치),Common Kestrel(황조롱이),Common Teal(쇠오리),Common Buzzard(말똥가리),Crow(까마귀),Grey Heron(왜가리),Black-tailed Gull(괭이갈매기),Spot-billed Duck(흰뺨검둥오리),White-fronted Goose(쇠기러기),Common Pheasant(꿩),Oriental Turtle Dove(멧비둘기)

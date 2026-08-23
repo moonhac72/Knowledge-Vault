@@ -1,0 +1,11 @@
+.DS_Store
+ConnectAI-models/
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.tar.gz
+*.zip
+temp_photo.jpg
