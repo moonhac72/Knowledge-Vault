@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. 데일리 노트/2026-02-24-나만의 이야기 자본 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,9 +167,20 @@
               "icon": "lucide-list",
               "title": "개요"
             }
+          },
+          {
+            "id": "4a3d24bc378d8bd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "20. 데일리 노트/2026-02-24-나만의 이야기 자본 만들기.md"
+              },
+              "icon": "lucide-info",
+              "title": "파일 속성"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +199,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ad06cca4e2588503",
+  "active": "5c1dbcb52975ffd3",
   "lastOpenFiles": [
     "무제 1.base",
     "무제.base",
